@@ -4,3 +4,4 @@ def hello_world():
 # 测试示例
 if __name__ == "__main__":
     hello_world()  # 新增的hello world打印
+    # 其他测试代码...
